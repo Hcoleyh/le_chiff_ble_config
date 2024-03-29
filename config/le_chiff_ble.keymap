@@ -118,8 +118,8 @@
 
     &kp Q       &kp W       &kp E       &kp R       &kp T          &kp Y       &kp U       &kp I       &kp O       &kp P
     &mt LGUI A  &mt LALT S  &mt LCTRL D &mt LSHFT F &kp G          &kp H       &mt RSHFT J &mt RCTRL K &mt RALT L  &mt RGUI SEMI
-    &kp Z       &kp X       &kp C       &kp V       &kp B          &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH
-                    &none  &mt LCTRL TAB    &lt LNUM SPACE &kp ESC &lt LSYM BSPC   &td_shift    &none  
+    &mt LSHFT Z &kp X       &kp C       &kp V       &kp B          &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH
+                    &none  &mt LCTRL TAB    &lt LNUM SPACE &kp ESC &lt LSYM RET   &kp BSPC &none  
                 >;
             };
 
@@ -130,7 +130,7 @@
     &kp N1       &kp N2       &kp N3        &kp N4         &kp N5        &kp N6    &kp N7     &kp N8     &kp N9     &kp N0
     &mt LGUI F1  &mt LALT F2  &mt LCTRL F3  &mt LSHIFT F4  &kp F5        &kp LEFT  &kp DOWN   &kp UP     &kp RIGHT  &kp F11
     &kp F6       &kp F7       &kp F8        &kp F9         &kp F10       &kp HOME  &kp PG_DN  &kp PG_UP  &kp END    &kp F12
-                                   &none    &none          &none  &none  &lt LSET BSPC   &none  &none
+                                   &none    &none          &none  &none  &lt LSET RET   &none  &none
                 >;
             };
 
@@ -141,7 +141,7 @@
     &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT          &kp CARET  &kp AMPS   &kp STAR  &kp LPAR  &kp RPAR
     &none     &none   &none     &kp SQT   &kp GRAVE          &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH
     &none     &none   &none     &kp DQT   &kp TILDE          &kp UNDER  &kp PLUS   &kp LBRC  &kp RBRC  &kp PIPE
-                          &none &none  &lt LSET BSPC  &none  &none  &none &none
+                          &none &none  &lt LSET RET   &none  &none  &none &none
                 >;
             };
 
