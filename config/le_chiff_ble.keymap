@@ -134,7 +134,7 @@
     &kp N1       &kp N2       &kp N3        &kp N4         &kp N5        &kp N6    &kp N7           &kp N8        &kp N9          &kp N0
     &mt LGUI F1  &mt LALT F2  &mt LCTRL F3  &mt LSHIFT F4  &kp F5        &kp LEFT  &mt LSHIFT DOWN  &mt LCTRL UP  &mt LALT RIGHT  &mt LGUI F11
     &kp F6       &kp F7       &kp F8        &kp F9         &kp F10       &kp HOME  &kp PG_DN        &kp PG_UP     &kp END         &kp F12
-                                   &none    &none          &none  &none  &lt LSET RET   &none  &none
+                                   &none    &none          &none  &none  &lt LSET RET   &kp BSPC  &none
                 >;
             };
 
